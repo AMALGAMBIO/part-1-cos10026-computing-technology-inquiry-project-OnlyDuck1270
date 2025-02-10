@@ -1,0 +1,6 @@
+img {width: 30%; float: right; margin-right: 1em;}
+table, th, tr, td {border: 1px solid black; 
+                    margin: 3px;
+                    padding: 3px;
+                    text-align: center;}
+caption {font-weight: bold; font-size: 1.5em;}
